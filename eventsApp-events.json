@@ -1,0 +1,20 @@
+{
+	"events": [
+		{
+			"title": "New event",
+			"description": "Description",
+			"min_age": "0",
+			"max_age": "100",
+			"start_date": "YYYY-MM-DD",
+			"start_time": "HH:mm",
+			"end_date": "YYYY-MM-DD",
+			"end_time": "HH:mm",
+			"persons": [
+				{
+					"born": "YYYY-MM-DD"
+				}
+			],
+			"toggle": true
+		}
+	]
+}
