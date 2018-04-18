@@ -1,22 +1,88 @@
 {
-	"events": [
-		{
-			"title": "New event",
-			"description": "Description",
-			"min_age": "0",
-			"max_age": "100",
-			"start_date": "YYYY-MM-DD",
-			"start_time": "01:59",
-			"end_date": "YYYY-MM-DD",
-			"end_time": "00:00",
-			"persons": [
-				{
-					"name": "New",
-					"mail": "new@new.com",
-					"born": "YYYY-MM-DD"
-				}
-			],
-			"toggle": true
-		}
-	]
-}
+        "events": [
+            {
+                "title": "Awesomeness",
+                "description": "Most awesome event ever",
+                "min_age": 16,
+                "start_date": "2018-05-10",
+                "start_time": "22:00:00.000",
+                "end_date": "2018-05-11",
+                "end_time": "03:00:00.000",
+                "persons": [
+                    {
+                        "name": "Davy Van De Beek",
+                        "mail": "davyvandebeek@outlook.com",
+                        "born": "1986-06-18"
+                    }
+                ]},
+            {
+                "title": "Happy Hour",
+                "description": "Organised by Ghent University",
+                "min_age": 18,
+                "max_age": 50,
+                "start_date": "2018-10-04",
+                "start_time": "21:00:00.000",
+                "end_date": "2018-10-05",
+                "end_time": "04:00:00.000",
+                "persons": [
+                    {
+                        "name": "Christopher Farnham",
+                        "mail": "chrisfarnham@gmail.com",
+                        "born": "1961-05-23"
+                    }
+                ]},
+            {
+                "title": "Snow Trip",
+                "description": "Organised by Ghent University",
+                "min_age": 18,
+                "max_age": 50,
+                "start_date": "2018-10-04",
+                "start_time": "21:00:00.000",
+                "end_date": "2018-10-05",
+                "end_time": "04:00:00.000",
+                "persons": [
+                    {
+                        "name": "Jackie Andersen",
+                        "mail": "jackie1976@hotmail.com",
+                        "born": "1976-12-11"
+                    },
+                    {
+                        "name": "Christopher Farnham",
+                        "mail": "chrisfarnham@gmail.com",
+                        "born": "1961-05-23"
+                    }
+                ]},
+            {
+                "title": "On our way to Ghent",
+                "description": "Organised by Ghent University",
+                "min_age": 18,
+                "max_age": 50,
+                "start_date": "2018-10-04",
+                "start_time": "21:00:00.000",
+                "end_date": "2018-10-05",
+                "end_time": "04:00:00.000",
+                "persons": [
+                    {
+                        "name": "Davy Van De Beek",
+                        "mail": "davyvandebeek@outlook.com",
+                        "born": "1986-06-18"
+                    }
+                ]},
+            {
+                "title": "Switched",
+                "description": "Organised by Ghent University",
+                "min_age": 18,
+                "max_age": 50,
+                "start_date": "2018-10-04",
+                "start_time": "21:00:00.000",
+                "end_date": "2018-10-05",
+                "end_time": "04:00:00.000",
+                "persons": [
+                    {
+                        "name": "Frederik Van Der Straten",
+                        "mail": "fredvdstraten@outlook.com",
+                        "born": "1986-06-18"
+                    }
+                ]}
+            ]
+    }
