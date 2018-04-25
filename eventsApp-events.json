@@ -15,7 +15,7 @@
 					"born": "1961-05-23"
 				}
 			],
-			"toggle": false
+			"toggle": true
 		},
 		{
 			"title": "Happy Hour",
@@ -33,7 +33,7 @@
 					"born": "1961-05-23"
 				}
 			],
-			"toggle": false
+			"toggle": true
 		},
 		{
 			"title": "Snow Trip",
@@ -56,7 +56,7 @@
 					"born": "1961-05-23"
 				}
 			],
-			"toggle": false
+			"toggle": true
 		},
 		{
 			"title": "On our way to Ghent",
@@ -74,7 +74,7 @@
 					"born": "1986-06-18"
 				}
 			],
-			"toggle": false
+			"toggle": true
 		},
 		{
 			"title": "Switched",
@@ -92,7 +92,24 @@
 					"born": "1986-06-18"
 				}
 			],
-			"toggle": false
+			"toggle": true
+		},
+		{
+			"title": "Goooo",
+			"description": "Let's Go!",
+			"min_age": "18",
+			"start_date": "2018-04-30",
+			"start_time": "22:00",
+			"end_date": "2018-05-01",
+			"end_time": "03:00",
+			"persons": [
+				{
+					"name": "Frederik Van Der Straten",
+					"mail": "fredvdstraten@outlook.com",
+					"born": "1986-06-18"
+				}
+			],
+			"toggle": true
 		}
 	]
 }
